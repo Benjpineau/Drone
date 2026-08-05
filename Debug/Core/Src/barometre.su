@@ -1,0 +1,6 @@
+../Core/Src/barometre.c:19:6:initBarometre	16	static
+../Core/Src/barometre.c:38:22:readBarometre	32	static
+../Core/Src/barometre.c:52:13:obtenirDonneesCompensees	56	static
+../Core/Src/barometre.c:69:14:calculerAltitude	16	static
+../Core/Src/barometre.c:75:6:calibrerPressionAuSol	24	static
+../Core/Src/barometre.c:87:7:obtenirAltitudeRelative	16	static

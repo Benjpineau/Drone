@@ -1,0 +1,6 @@
+../Core/Src/barometre.c:19:6:initBarometre	1
+../Core/Src/barometre.c:38:22:readBarometre	1
+../Core/Src/barometre.c:52:13:obtenirDonneesCompensees	1
+../Core/Src/barometre.c:69:14:calculerAltitude	2
+../Core/Src/barometre.c:75:6:calibrerPressionAuSol	2
+../Core/Src/barometre.c:87:7:obtenirAltitudeRelative	1

@@ -1,0 +1,5 @@
+../Core/Src/pwm.c:7:10:computePower	3
+../Core/Src/pwm.c:16:6:setMotor1	1
+../Core/Src/pwm.c:20:6:setMotor2	1
+../Core/Src/pwm.c:24:6:setMotor3	1
+../Core/Src/pwm.c:28:6:setMotor4	1

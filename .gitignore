@@ -1,0 +1,10 @@
+FlightController Debug (1).cfg
+FlightController Debug (1).launch
+FlightController.ioc
+STM32H743VITX_FLASH.ld
+STM32H743VITX_RAM.ld
+.cproject
+.mxproject
+.osx.project
+.project
+.settings

@@ -1,0 +1,10 @@
+../Core/Src/ICM42688P.c:28:10:hal_Spi2_ReadWriteByte	2
+../Core/Src/ICM42688P.c:38:6:Icm_Spi_ReadWriteNbytes	2
+../Core/Src/ICM42688P.c:47:9:ICM42688P_ReadReg	1
+../Core/Src/ICM42688P.c:58:9:ICM42688P_WriteReg	1
+../Core/Src/ICM42688P.c:71:6:ICM42688P_Init	2
+../Core/Src/ICM42688P.c:103:7:ICM42688P_ConvertAccel	1
+../Core/Src/ICM42688P.c:107:7:ICM42688P_ConvertGyro	1
+../Core/Src/ICM42688P.c:111:7:ICM42688P_ConvertTemp	1
+../Core/Src/ICM42688P.c:115:9:ICM42688P_decode	1
+../Core/Src/ICM42688P.c:136:9:ICM42688P_GetData	2

@@ -1,0 +1,5 @@
+../Core/Src/pwm.c:7:10:computePower	16	static
+../Core/Src/pwm.c:16:6:setMotor1	16	static
+../Core/Src/pwm.c:20:6:setMotor2	16	static
+../Core/Src/pwm.c:24:6:setMotor3	16	static
+../Core/Src/pwm.c:28:6:setMotor4	16	static

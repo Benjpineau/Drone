@@ -1,0 +1,4 @@
+../Core/Src/attitude.c:6:6:Update_Orientation_Quaternion	2
+../Core/Src/attitude.c:38:6:Quaternion_To_Euler	2
+../Core/Src/attitude.c:69:6:Mahony_Init	1
+../Core/Src/attitude.c:85:6:Mahony_Update	4

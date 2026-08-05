@@ -1,0 +1,5 @@
+../Core/Src/rc_link.c:48:16:ComputeChecksum	24	static
+../Core/Src/rc_link.c:57:6:RC_Init	16	static
+../Core/Src/rc_link.c:70:9:RC_IsLinkValid	16	static
+../Core/Src/rc_link.c:76:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/rc_link.c:132:6:HAL_UART_ErrorCallback	16	static
