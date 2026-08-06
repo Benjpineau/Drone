@@ -50,7 +50,7 @@ Actuellement, le contrôleur est fait au sens théorique, il est codé, mais il 
 
 - Pour les équations/explications/quelques images -> drone.pdf 
 - Pour le code -> FlightController
-- Pour les fichiers gerber et la CAO du drone -> me demander par mail : benjamin@93160@gmail.com
+- Pour les fichiers gerber et la CAO du drone -> me demander par mail : **benjamin@93160@gmail.com**
 
 ## Quelques mots clefs :
 
