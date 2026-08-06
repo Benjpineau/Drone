@@ -1,6 +1,8 @@
 # Drone 
 
-## ENGLISH VERSION COMING SOON
+## ENGLISH VERSION 
+
+-> README.ENG.md
 
 ## Pourquoi ce projet ?
 
