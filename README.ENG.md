@@ -48,7 +48,7 @@ At the moment, the controller has been fully designed and implemented from a the
 
 * **Theory, derivations, explanations, and illustrations:** `drone_eng.pdf`
 * **Source code:** `FlightController`
-* **Gerber files and CAD models:** available upon request at **benjamin93160@gmail.com]**
+* **Gerber files and CAD models:** available upon request at **benjamin93160@gmail.com**
 
 ## Keywords
 
