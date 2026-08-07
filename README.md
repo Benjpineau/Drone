@@ -57,3 +57,8 @@ Actuellement, le contrôleur est fait au sens théorique, il est codé, mais il 
 - Vue d'ensemble : Quadrotor, CAO (Fusion360), PCB (EasyEDA), STM32 (CubeMX & IDE), ESP32 (Arduino), C, Contrôleur en cascade;
 - PCB : SPI, I2C, DMA, UART, USB;
 
+## Quelques images :
+
+![Drone (avec son moteur manquant)](images/drone.jpeg)
+![Contrôleur de vol](images/pcb.jpeg)
+
