@@ -54,3 +54,8 @@ At the moment, the controller has been fully designed and implemented from a the
 
 * **General:** Quadrotor, CAD (Fusion 360), PCB (EasyEDA), STM32 (CubeMX & STM32CubeIDE), ESP32 (Arduino), C, Cascaded Control
 * **Embedded:** SPI, I²C, DMA, UART, USB
+
+## Images :
+
+![Drone (and its missing motor)](images/drone.jpeg)
+![FlightController](images/pcb.jpeg)
